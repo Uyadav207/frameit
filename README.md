@@ -1,12 +1,12 @@
 # What is this?
 
-Help you getting perfect shadow for the non-designer and adds to beautiful image padding .
+Get perfect shadow for the non-designer and adds to beautiful image's padding .
 
 # Installation
 
 `npm i frameit --save`
 
-Using in your code
+Use in your code
 
 ```bash
 import {frameit} from frameit

@@ -1,0 +1,24 @@
+{
+  "name": "frameit",
+  "version": "1.0.0",
+  "description": "\"Given your image perfect shadow\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uyadav207/frameit.git"
+  },
+  "keywords": [
+    "shadows",
+    "padding",
+    "images-shadow"
+  ],
+  "author": "uyadav207",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uyadav207/frameit/issues"
+  },
+  "homepage": "https://github.com/Uyadav207/frameit#readme"
+}
