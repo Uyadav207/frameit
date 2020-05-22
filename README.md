@@ -9,7 +9,7 @@ Get perfect shadow for the non-designer and adds to beautiful image's padding .
 Use in your code
 
 ```bash
-import {frameit} from frameit
+import { frameit } from 'frameit';
 
 frameit({
     shadow_type: 'soft',
