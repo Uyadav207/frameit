@@ -1,6 +1,6 @@
 {
   "name": "frameit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "\"Given your image perfect shadow\"",
   "main": "index.js",
   "scripts": {
