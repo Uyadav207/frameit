@@ -1,5 +1,4 @@
- ![FrameIt](https://drive.google.com/drive/u/0/search?q=prototype.png)
-
+ ![FrameIt](https://github.com/Uyadav207/frameit/blob/master/prototype.png)
 
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/Uyadav207/frameit) ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Uyadav207/frameit) ![GitHub repo size](https://img.shields.io/github/repo-size/Uyadav207/frameit) ![GitHub followers](https://img.shields.io/github/followers/Uyadav207?style=social) <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" /> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="weatherly-react-app: Weatherly is released under the MIT license." />
