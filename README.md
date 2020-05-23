@@ -1,4 +1,4 @@
- ![FrameIt](https://github.com/Uyadav207/frameit/blob/master/prototype.png)
+ ![FrameIt](https://drive.google.com/drive/u/0/search?q=prototype.png)
 
 
 
