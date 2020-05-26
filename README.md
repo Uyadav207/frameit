@@ -30,5 +30,4 @@ frameit has 2 options for now.. See the example below:
 * *padding* - _boolean (Defaults as false)
 
 ## LICENSE
-
 MIT 
